@@ -1,0 +1,15 @@
+Keyboard Range Extender
+
+1. Key features:
+- Bluetooth 5
+- How keyboard works
+- - GH60
+- - Scan code
+- - TMK
+- Battery
+2. Restrictions
+- Only for English standard keyboard.
+- Only for non-complicated devices(no Xbox or PS)
+
+Things to do by tomorrow:
+use the keyboardstateview program to figure out the hex codes for each other's keyboards.
