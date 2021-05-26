@@ -1,0 +1,4 @@
+Everything about USB:
+https://www.cypress.com/file/134171/download#:~:text=USB%20device%20communication%20is%20done,to%20transmit%20to%20the%20host.
+FPGA Dev board:
+https://reference.digilentinc.com/programmable-logic/zybo-z7/start
